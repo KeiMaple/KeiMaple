@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 ✨ shaping my path, one certificate at a time<br><br>💻 learning the craft of becoming a software developer — growing, failing, fixing, repeating<br><br>🎮 when I’m not coding, you’ll find me getting lost in horror games or binge-watching movies that keep me up at night<br><br>Just a mix of logic, curiosity, and a little chaos 🖤<br>
 
