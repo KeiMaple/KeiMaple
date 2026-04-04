@@ -17,9 +17,6 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/YOUR_ANIME_AVATAR_LINK.png" width="180" 
-     style="border-radius: 50%; border: 6px solid #ff9ed9; margin-bottom: 15px;" />
-
 <p style="margin: 8px 0 4px 0; font-size: 1.1em; color: #ff69b4;">
   <strong>she/her</strong>
 </p>
