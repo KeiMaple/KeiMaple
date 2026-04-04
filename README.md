@@ -16,10 +16,14 @@
 ### 💖 About Me
 
 <p style="font-size: 1.2em; color: #ff69b4;">
-  <strong>she/her</strong><br>
-  Collecting certificates like Pokémon cards ✨<br>
-  Night owl coding with horror movies on the side 🌙<br>
+  <strong>she/her</strong>
+     
+  Collecting certificates like Pokémon cards ✨
+     
+  Night owl coding with horror movies on the side 🌙
+  
   Logic + curiosity + a sprinkle of chaos 💕
+  
 </p>
 
 ---
