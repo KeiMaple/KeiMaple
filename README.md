@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Soft Pink Background Cat -->
-<img src="https://assets.grok.com/users/c692341e-bf65-4b85-8d5e-c3cc8e3d8fc9/generated/5fe677c5-2def-4345-9c67-d457851ff863/image.jpg" 
+<img src="https://i.pinimg.com/736x/65/37/eb/6537eb5cbdb7019e893c10a501894c8b.jpg" 
      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.13; z-index: -1; filter: brightness(1.15) saturate(1.3); pointer-events: none;" />
 
 <h1 style="background: linear-gradient(90deg, #ff9ed9, #ff69b4, #ffb6c1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.8em; margin: 20px 0;">
