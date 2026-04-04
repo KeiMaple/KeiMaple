@@ -75,9 +75,3 @@
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?logo=vercel&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 
 </div>
-
----
-
-### 📊 GitHub Stats (Pink Theme)
-
-<img src="https://github-readme-stats.vercel.app/api?username=KeiMaple&show_icons=true&theme=dracula&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1&icon_color=ff69b4&border_color=ff9ed9" alt="Stats" />
