@@ -15,9 +15,6 @@
 
 ### 💖 About Me
 
-<img src="https://i.imgur.com/YOUR_ANIME_AVATAR_LINK.png" width="200" 
-     style="border-radius: 50%; border: 7px solid #ff9ed9; box-shadow: 0 0 25px #ff69b4; animation: bounce 2.2s infinite ease-in-out;" />
-
 <p style="font-size: 1.2em; color: #ff69b4;">
   <strong>she/her</strong><br>
   Collecting certificates like Pokémon cards ✨<br>
