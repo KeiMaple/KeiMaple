@@ -84,22 +84,24 @@
 
 ### 📊 My Kawaii Statistics 💖
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiMaple&layout=compact&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1" 
-     alt="Top Languages" />
+  <!-- Top Languages -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiMaple&layout=compact&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1" 
+         alt="Top Languages" />
+  </div>
 
-<br><br>
+  <!-- Contributions + Commits -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=KeiMaple&show_icons=true&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1&icon_color=ff69b4&include_all_commits=true&count_private=true" 
+         alt="GitHub Stats" />
+  </div>
 
-<!-- Main GitHub Stats + Contributions + Commits -->
-<img src="https://github-readme-stats.vercel.app/api?username=KeiMaple&show_icons=true&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1&icon_color=ff69b4&include_all_commits=true&count_private=true" 
-     alt="GitHub Stats" />
-
-<br><br>
-
-<!-- Beautiful Streak Card (Similar to your screenshot style) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KeiMaple&theme=calm_pink&hide_border=true&background=2a1b2e&stroke=ff9ed9&ring=ff69b4&fire=ff1493&currStreakNum=ffb6c1&date_format=M%20j" 
-     alt="Contribution Streak" />
+  <!-- Streak -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeiMaple&theme=calm_pink&hide_border=true&background=2a1b2e&stroke=ff9ed9&ring=ff69b4&fire=ff1493&currStreakNum=ffb6c1" 
+         alt="Contribution Streak" />
+  </div>
 
 </div>
