@@ -15,16 +15,28 @@
 
 ### 💖 About Me
 
-<p style="font-size: 1.2em; color: #ff69b4;">
+<div align="center">
+
+<img src="https://i.imgur.com/YOUR_ANIME_AVATAR_LINK.png" width="180" 
+     style="border-radius: 50%; border: 6px solid #ff9ed9; margin-bottom: 15px;" />
+
+<p style="margin: 8px 0 4px 0; font-size: 1.1em; color: #ff69b4;">
   <strong>she/her</strong>
-     
-  Collecting certificates like Pokémon cards ✨
-     
-  Night owl coding with horror movies on the side 🌙
-  
-  Logic + curiosity + a sprinkle of chaos 💕
-  
 </p>
+
+<p style="margin: 6px 0 4px 0; line-height: 1.4;">
+  Collecting certificates like Pokémon cards ✨
+</p>
+
+<p style="margin: 6px 0 4px 0; line-height: 1.4;">
+  Night owl coding with horror movies on the side 🌙
+</p>
+
+<p style="margin: 6px 0 4px 0; line-height: 1.4;">
+  Logic + curiosity + a sprinkle of chaos 💕
+</p>
+
+</div>
 
 ---
 
