@@ -79,29 +79,3 @@
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?logo=vercel&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 
 </div>
-
----
-
-### 📊 My Kawaii Statistics 💖
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <!-- Top Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiMaple&layout=compact&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1" 
-         alt="Top Languages" />
-  </div>
-
-  <!-- Contributions + Commits -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=KeiMaple&show_icons=true&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1&icon_color=ff69b4&include_all_commits=true&count_private=true" 
-         alt="GitHub Stats" />
-  </div>
-
-  <!-- Streak -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeiMaple&theme=calm_pink&hide_border=true&background=2a1b2e&stroke=ff9ed9&ring=ff69b4&fire=ff1493&currStreakNum=ffb6c1" 
-         alt="Contribution Streak" />
-  </div>
-
-</div>
