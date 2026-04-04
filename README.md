@@ -2,7 +2,7 @@
 ✨ shaping my path, one certificate at a time<br><br>💻 learning the craft of becoming a software developer — growing, failing, fixing, repeating<br><br>🎮 when I’m not coding, you’ll find me getting lost in horror games or binge-watching movies that keep me up at night<br><br>Just a mix of logic, curiosity, and a little chaos 🖤<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kia_rian) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kei.florendo.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kacey-florendo-7461113a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexeieloquez@gmail.com) 
 
 # 💻 Tech Stack:
