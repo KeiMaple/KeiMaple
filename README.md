@@ -5,7 +5,7 @@
      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.13; z-index: -1; filter: brightness(1.15) saturate(1.3); pointer-events: none;" />
 
 <h1 style="background: linear-gradient(90deg, #ff9ed9, #ff69b4, #ffb6c1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.8em; margin: 20px 0;">
-  Hi there! I'm KeiMaple 🍓💖
+  Hi there! I'm KeiMaple 🍓
 </h1>
 
 <!-- Typing SVG -->
