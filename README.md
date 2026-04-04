@@ -90,3 +90,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KeiMaple&show_icons=true&theme=calm_pink&hide_border=true&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1&icon_color=ff69b4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br><br>
+
+</div>
