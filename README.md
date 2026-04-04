@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&color=FF69B4&center=true&vCenter=true&width=620&lines=learning+to+code+one+cute+bug+at+a+time+%E2%9C%A8;growing+%E2%80%A2+failing+%E2%80%A2+fixing+%E2%80%A2+repeating+%F0%9F%92%96;horror+games+%26+late-night+movies+keep+me+going+%F0%9F%8C%99;logic+%2B+curiosity+%2B+a+little+chaos+%E2%98%95%EF%B8%8F" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&color=FF69B4&center=true&vCenter=true&width=620&lines=learning+to+code+one+cute+bug+at+a+time+%E2%9C%A8;growing+%E2%80%A2+failing+%E2%80%A2+fixing+%E2%80%A2+repeating+%F0%9F%92%96; horror+games+%26+late-night+movies+keep+me+going+%F0%9F%8C%99;logic+%2B+curiosity+%2B+a+little+chaos+%E2%98%95%EF%B8%8F" alt="Typing Animation" />
 
 ---
 
