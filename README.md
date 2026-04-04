@@ -89,7 +89,8 @@
 
 ### 💕 Pinned Projects
 
-<!-- Add your pinned repo cards here (they will inherit the pink vibe) -->
+https://github.com/KeiMaple/Maple-AI_Assistant-Bot
+https://github.com/KeiMaple/Pomodero
 
 ---
 
