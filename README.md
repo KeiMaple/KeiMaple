@@ -84,29 +84,3 @@
 ### 📊 GitHub Stats (Pink Theme)
 
 <img src="https://github-readme-stats.vercel.app/api?username=KeiMaple&show_icons=true&theme=dracula&bg_color=2a1b2e&title_color=ff9ed9&text_color=ffb6c1&icon_color=ff69b4&border_color=ff9ed9" alt="Stats" />
-
----
-
-### 💕 Pinned Projects
-
-https://github.com/KeiMaple/Maple-AI_Assistant-Bot
-https://github.com/KeiMaple/Pomodero
-
----
-
-<div align="center">
-  <img src="[https://i.imgur.com/YOUR_CAT_IMAGE_LINK.png](https://i.pinimg.com/736x/e5/46/bc/e546bc0b437e24e3f528815cf7f08032.jpg)" width="280" 
-       style="animation: bounce 2.5s infinite ease-in-out; filter: drop-shadow(0 0 18px #ff9ed9);" />
-  <p style="color: #ff69b4; font-style: italic; margin-top: 10px;">
-    *my coding buddy cheering me on* 🐱💕
-  </p>
-</div>
-
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-14px); }
-}
-</style>
-
-</div>
