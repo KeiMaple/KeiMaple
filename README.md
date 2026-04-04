@@ -94,7 +94,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/YOUR_CAT_IMAGE_LINK.png" width="280" 
+  <img src="[https://i.imgur.com/YOUR_CAT_IMAGE_LINK.png](https://i.pinimg.com/736x/e5/46/bc/e546bc0b437e24e3f528815cf7f08032.jpg)" width="280" 
        style="animation: bounce 2.5s infinite ease-in-out; filter: drop-shadow(0 0 18px #ff9ed9);" />
   <p style="color: #ff69b4; font-style: italic; margin-top: 10px;">
     *my coding buddy cheering me on* 🐱💕
