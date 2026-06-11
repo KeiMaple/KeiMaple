@@ -46,20 +46,14 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 
 <!-- Frameworks & Tools -->
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 
 <!-- Cloud & Databases -->
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 
 <!-- Libraries & Others -->
@@ -77,7 +71,6 @@
 <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Aseprite-FF5C5C?logo=aseprite&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 
 <!-- Other Tools & Platforms -->
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
