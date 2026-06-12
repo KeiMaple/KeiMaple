@@ -59,8 +59,6 @@
 <!-- Libraries & Others -->
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/JavaFX-000000?logo=openjdk&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
@@ -74,8 +72,6 @@
 
 <!-- Other Tools & Platforms -->
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?logo=vercel&logoColor=white&style=flat-square" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.12)'" />
